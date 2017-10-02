@@ -1,3 +1,9 @@
 # Cottrell_PTRE-seq_scripts
 Scripts used in Cottrell et al, 2017 manuscript
-Script 1: Linear Model of RNA and TE data
+Steps and Scripts
+1. Library design
+2. Raw sequencing data to Barcode counts
+All replicates were indexed with a different P1 index and pooled and sequenced. FastQ files were first demultiplexed, and then counts were obtained per barcode. Script: KC_bc_count.sh
+3. Preliminary analysis: Counts to RNA expression and TE efficiency
+4. Linear Modeling to RNA expression and TE efficiency 
+
