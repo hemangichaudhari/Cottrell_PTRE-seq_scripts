@@ -1,0 +1,82 @@
+Let-7	Pumilio	HuR	Smg	Natural	Seed	Pum_Let_7	HuR_Let_7	Smg_Let_7	HuR_Pum	Smg_Pum	Let_PC
+Control	Control	Control	Control	Control	Control	Control	Control	Control	Control	Control	Control
+BBB7	BBBp	BBBh	BBBS	SMARCAD1	6merx1	BBB7	BBBh	BBBS	BBBh	BBBS	6merx1
+BB7B	BBpB	BBhB	BBSB	C14orf28	6merx2	BBBp	BBB7	BBB7	BBBp	BBBp	6merx2
+BB77	BBpp	BBhh	BBSS	Dna2	6merx4	BB7B	BBhB	BBSB	BBhB	BBSB	6merx4
+B7BB	BpBB	BhBB	BSBB	FIGNL2	7mera1x1	BB77	BBhh	BBSS	BBhh	BBSS	7mera1x1
+B7B7	BpBp	BhBh	BSBS	HMGA2	7mera1x2	BB7p	BBh7	BBS7	BBhp	BBSp	7mera1x2
+B77B	BppB	BhhB	BSSB	7777	7mera1x4	BBpB	BB7B	BB7B	BBpB	BBpB	7mera1x4
+B777	Bppp	Bhhh	BSSS		7merm8x1	BBp7	BB7h	BB7S	BBph	BBpS	7merm8x1
+7BBB	pBBB	hBBB	SBBB		7merm8x2	BBpp	BB77	BB77	BBpp	BBpp	7merm8x2
+7BB7	pBBp	hBBh	SBBS		7merm8x4	B7BB	BhBB	BSBB	BhBB	BSBB	7merm8x4
+7B7B	pBpB	hBhB	SBSB		7777	B7B7	BhBh	BSBS	BhBh	BSBS	7777
+7B77	pBpp	hBhh	SBSS		B7BB	B7Bp	BhB7	BSB7	BhBp	BSBp	B7BB
+77BB	ppBB	hhBB	SSBB		7B7B	B77B	BhhB	BSSB	BhhB	BSSB	7B7B
+77B7	ppBp	hhBh	SSBS			B777	Bhhh	BSSS	Bhhh	BSSS	7pcx1
+777B	pppB	hhhB	SSSB			B77p	Bhh7	BSS7	Bhhp	BSSp	7pcx2
+7777	pppp	hhhh	SSSS			B7pB	Bh7B	BS7B	BhpB	BSpB	7pcx4
+						B7p7	Bh7h	BS7S	Bhph	BSpS	
+						B7pp	Bh77	BS77	Bhpp	BSpp	
+						BpBB	B7BB	B7BB	BpBB	BpBB	
+						BpB7	B7Bh	B7BS	BpBh	BpBS	
+						BpBp	B7B7	B7B7	BpBp	BpBp	
+						Bp7B	B7hB	B7SB	BphB	BpSB	
+						Bp77	B7hh	B7SS	Bphh	BpSS	
+						Bp7p	B7h7	B7S7	Bphp	BpSp	
+						BppB	B77B	B77B	BppB	BppB	
+						Bpp7	B77h	B77S	Bpph	BppS	
+						Bppp	B777	B777	Bppp	Bppp	
+						7BBB	hBBB	SBBB	hBBB	SBBB	
+						7BB7	hBBh	SBBS	hBBh	SBBS	
+						7BBp	hBB7	SBB7	hBBp	SBBp	
+						7B7B	hBhB	SBSB	hBhB	SBSB	
+						7B77	hBhh	SBSS	hBhh	SBSS	
+						7B7p	hBh7	SBS7	hBhp	SBSp	
+						7BpB	hB7B	SB7B	hBpB	SBpB	
+						7Bp7	hB7h	SB7S	hBph	SBpS	
+						7Bpp	hB77	SB77	hBpp	SBpp	
+						77BB	hhBB	SSBB	hhBB	SSBB	
+						77B7	hhBh	SSBS	hhBh	SSBS	
+						77Bp	hhB7	SSB7	hhBp	SSBp	
+						777B	hhhB	SSSB	hhhB	SSSB	
+						7777	hhhh	SSSS	hhhh	SSSS	
+						777p	hhh7	SSS7	hhhp	SSSp	
+						77pB	hh7B	SS7B	hhpB	SSpB	
+						77p7	hh7h	SS7S	hhph	SSpS	
+						77pp	hh77	SS77	hhpp	SSpp	
+						7pBB	h7BB	S7BB	hpBB	SpBB	
+						7pB7	h7Bh	S7BS	hpBh	SpBS	
+						7pBp	h7B7	S7B7	hpBp	SpBp	
+						7p7B	h7hB	S7SB	hphB	SpSB	
+						7p77	h7hh	S7SS	hphh	SpSS	
+						7p7p	h7h7	S7S7	hphp	SpSp	
+						7ppB	h77B	S77B	hppB	SppB	
+						7pp7	h77h	S77S	hpph	SppS	
+						7ppp	h777	S777	hppp	Sppp	
+						pBBB	7BBB	7BBB	pBBB	pBBB	
+						pBB7	7BBh	7BBS	pBBh	pBBS	
+						pBBp	7BB7	7BB7	pBBp	pBBp	
+						pB7B	7BhB	7BSB	pBhB	pBSB	
+						pB77	7Bhh	7BSS	pBhh	pBSS	
+						pB7p	7Bh7	7BS7	pBhp	pBSp	
+						pBpB	7B7B	7B7B	pBpB	pBpB	
+						pBp7	7B7h	7B7S	pBph	pBpS	
+						pBpp	7B77	7B77	pBpp	pBpp	
+						p7BB	7hBB	7SBB	phBB	pSBB	
+						p7B7	7hBh	7SBS	phBh	pSBS	
+						p7Bp	7hB7	7SB7	phBp	pSBp	
+						p77B	7hhB	7SSB	phhB	pSSB	
+						p777	7hhh	7SSS	phhh	pSSS	
+						p77p	7hh7	7SS7	phhp	pSSp	
+						p7pB	7h7B	7S7B	phpB	pSpB	
+						p7p7	7h7h	7S7S	phph	pSpS	
+						p7pp	7h77	7S77	phpp	pSpp	
+						ppBB	77BB	77BB	ppBB	ppBB	
+						ppB7	77Bh	77BS	ppBh	ppBS	
+						ppBp	77B7	77B7	ppBp	ppBp	
+						pp7B	77hB	77SB	pphB	ppSB	
+						pp77	77hh	77SS	pphh	ppSS	
+						pp7p	77h7	77S7	pphp	ppSp	
+						pppB	777B	777B	pppB	pppB	
+						ppp7	777h	777S	ppph	pppS	
+						pppp	7777	7777	pppp	pppp	
