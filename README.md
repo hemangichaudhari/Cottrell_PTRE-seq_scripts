@@ -8,9 +8,11 @@ All replicates were indexed with a different P1 index and pooled and sequenced. 
 3. Preliminary analysis: Counts to RNA expression and TE efficiency
 <br />Script: Analysis_RNA_TE.R
 4. Linear Modeling to RNA expression and TE efficiency 
-<br />Scripts: 
-1) modeling_linear.R
-2) Exploratory analysis : modeling_FOLD.R
-5. Example scripts for analysis of Let7 targets : Let7_analysis.R
+<br />Scripts: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) modeling_linear.R <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Exploratory analysis : modeling_FOLD.R
+5. Example scripts:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Analysis of Let7 targets : Let7_analysis.R<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Analysis of combined effects of Let7 and Pumilio : Pum_Let7_analysis.R
 6. Natural target analyis scripts : Natural_Target_Analysis.R
 
