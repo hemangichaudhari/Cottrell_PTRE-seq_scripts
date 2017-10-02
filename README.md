@@ -13,8 +13,8 @@ Files: RNA_plasmid.txt (RNA Expression) and PARNA_RNA.txt (TE efficiency)
 <br />Scripts: <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Modeling_linear.R<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Exploratory analysis: modeling_FOLD.R
-5. Example scripts:<br />
+5.Scripts for specific data analysis<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1) Analysis of Let7 targets: Let-7_Analysis.R<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) Analysis of combined effects of Let7 and Pumilio: Pum_Let-7_Analysis.R
-6. Natural target analysis scripts: Natural_Targets_Analysis.R
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3)Natural target analysis scripts: Natural_Targets_Analysis.R
 
